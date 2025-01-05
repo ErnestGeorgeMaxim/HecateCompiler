@@ -1,0 +1,1 @@
+Type: double, Name: globalVariable, Initial Value: -15.67

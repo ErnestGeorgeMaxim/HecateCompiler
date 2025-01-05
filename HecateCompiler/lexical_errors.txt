@@ -1,0 +1,2 @@
+Lexical Errors:
+Lexer Error: 'token recognition error at: '";\r'' at line 16, col 28

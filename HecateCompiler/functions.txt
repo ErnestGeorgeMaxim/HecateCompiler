@@ -1,0 +1,31 @@
+Function Information:
+  Return Type: int
+  Name: addIntegers
+  Is Main: False
+  Parameters: int first, int second
+  Local Variables:
+  Control Structures:
+
+Function Information:
+  Return Type: float
+  Name: divideIntegers
+  Is Main: False
+  Parameters: int first, int second
+  Local Variables:
+  Control Structures:
+
+Function Information:
+  Return Type: int
+  Name: main
+  Is Main: True
+  Parameters: 
+  Local Variables:
+    - Type: int, Name: myFirstVariable, Initial Value: 17
+    - Type: int, Name: mySecondVariable, Initial Value: 45
+    - Type: int, Name: myThirdVariable, Initial Value: 3
+    - Type: int, Name: i, Initial Value: 0
+    - Type: string, Name: myString, Initial Value: 
+    - Type: float, Name: myFloat, Initial Value: null
+  Control Structures:
+    - <For Loop, Line: 22>
+

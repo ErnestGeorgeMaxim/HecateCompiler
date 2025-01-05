@@ -1,0 +1,7 @@
+<If Statement, Line: 8>
+  - Entered 'if' block at line 9
+<For Loop, Line: 22>
+<If Statement, Line: 27>
+  - Entered 'if' block at line 28
+<If Statement, Line: 8>
+  - Entered 'if' block at line 9

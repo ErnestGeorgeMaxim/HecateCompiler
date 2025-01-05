@@ -1,0 +1,6 @@
+D:\clion_projects\C#\HecateCompiler\HecateCompiler\obj\Debug\net9.0\HecateLangLexer.cs
+D:\clion_projects\C#\HecateCompiler\HecateCompiler\obj\Debug\net9.0\HecateLangParser.cs
+D:\clion_projects\C#\HecateCompiler\HecateCompiler\obj\Debug\net9.0\HecateLangListener.cs
+D:\clion_projects\C#\HecateCompiler\HecateCompiler\obj\Debug\net9.0\HecateLangBaseListener.cs
+D:\clion_projects\C#\HecateCompiler\HecateCompiler\obj\Debug\net9.0\HecateLangVisitor.cs
+D:\clion_projects\C#\HecateCompiler\HecateCompiler\obj\Debug\net9.0\HecateLangBaseVisitor.cs

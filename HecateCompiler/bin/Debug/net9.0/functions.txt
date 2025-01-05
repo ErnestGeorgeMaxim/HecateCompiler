@@ -1,0 +1,3 @@
+Return Type: int, Name: addIntegers, Parameters: int first, int second
+Return Type: float, Name: divideIntegers, Parameters: int first, int second
+Return Type: int, Name: main, Parameters: 
